@@ -5,7 +5,7 @@
         $back = "";
     }
 
-    session_start();
+        
     require_once '../../conf.php';
 
     // Create connection
